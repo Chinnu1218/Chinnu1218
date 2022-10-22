@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chinnu1218
+- 👋 Hi, I’m yeshwanth pellakuru.
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on open-source projects
